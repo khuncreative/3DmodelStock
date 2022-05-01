@@ -1,0 +1,13 @@
+# Blender MTL File: 'backdrop.blend'
+# Material Count: 1
+
+newmtl pink001
+Ns 476.908532
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.190456 0.717509
+Ks 0.404545 0.404545 0.404545
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:\\00 IR_Job\\1 IR_ThisCom\\00 StockProj\\00 IR-JobFinish start65\\CHULA job\\BG_PINK1-09.jpg
